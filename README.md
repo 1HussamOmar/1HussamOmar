@@ -167,7 +167,7 @@ done
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SP--XD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1HussamOmar)
+[![GitHub](https://img.shields.io/badge/GitHub-Hussam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1HussamOmar)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hussamomar210@gmail.com)
 
 </div>

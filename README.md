@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Security+Researcher;Penetration+Tester;Vulnerability+Hunter;Code+%26+Network+Analyst" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=blueviolet)](https://github.com/SP-XD)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spxd007)
+[![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=blueviolet)](https://github.com/1HussamOmar)
 
 </div>
 
@@ -16,7 +15,7 @@
 ```python
 class CyberSecuritySpecialist:
     def __init__(self):
-        self.name = "SP-XD"
+        self.name = "Hussam Omar"
         self.role = "CyberSecurity Professional"
         self.expertise = [
             "Penetration Testing",
@@ -109,19 +108,7 @@ int main() {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-
-</div>
-
----
 
 ## 🎯 Areas of Expertise
 
@@ -130,7 +117,7 @@ int main() {
 <td align="center" width="50%">
 
 ### 🔴 Offensive Security
-- Penetration Testing (Web, Network, Mobile)
+- Penetration Testing (Web, Network)
 - Exploit Development
 - Social Engineering
 - Red Team Operations
@@ -180,9 +167,8 @@ done
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-丂𝙋⚡乂𝘿-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spxd007)
-[![GitHub](https://img.shields.io/badge/GitHub-SP--XD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SP-XD)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SP--XD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1HussamOmar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hussamomar210@gmail.com)
 
 </div>
 
